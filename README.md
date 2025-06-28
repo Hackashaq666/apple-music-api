@@ -7,7 +7,7 @@ you can integrate its control into any of your own software.
 This is especially convenient for integrating into any sort of Home Automation
 you might have.
 
-Last confirmed working version of Apple Music: `1.0.6.10`.
+Last confirmed working version of Apple Music: `1.3.6.14`.
 
 
 ## Features
