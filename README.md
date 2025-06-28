@@ -1,5 +1,7 @@
 # iTunes API!!
 
+This repo repo contains updates to work with the latest versions of Apple Music App.
+
 iTunes API is a simple REST server allowing you to query/control a local running
 iTunes instance. Once you have a way to make RESTful API calls to control iTunes,
 you can integrate its control into any of your own software.
@@ -8,7 +10,6 @@ This is especially convenient for integrating into any sort of Home Automation
 you might have.
 
 Last confirmed working version of Apple Music: `1.3.6.14`.
-
 
 ## Features
 
