@@ -1,4 +1,4 @@
-# iTunes API!!
+# Apple Music API!!
 
 This repo repo contains updates to work with the latest versions of Apple Music App, as of June 2025.
 forked from chasut/itunes-api
