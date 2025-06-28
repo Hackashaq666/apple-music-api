@@ -1,6 +1,7 @@
 # iTunes API!!
 
 This repo repo contains updates to work with the latest versions of Apple Music App, as of June 2025.
+forked from chasut/itunes-api
 
 iTunes API is a simple REST server allowing you to query/control a local running
 iTunes instance. Once you have a way to make RESTful API calls to control iTunes,
